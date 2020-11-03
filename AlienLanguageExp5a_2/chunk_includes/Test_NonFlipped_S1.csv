@@ -1,0 +1,9 @@
+Trial number,AlienImageFile,Ailen,Species,Outfit,ItemHintImage,SingularWord,ItemTestImage,Question,Word,Variant1,Variant2,Item1,Item1Image,Item2,Item2Image
+1,A1_1.png,A1,A,1,Singular1.png,kabuq,Plural1.png,?,Plural1,1,2,kabuqgok,kabuqgok.png,kabuqdem,kabuqdem.png
+2,A2_1.png,A2,A,1,Singular2.png,bupod,Plural2.png,?,Plural2,1,2,bupodgok,bupodgok.png,bupoddem,bupoddem.png
+3,A3_1.png,A3,A,1,Singular3.png,hasot,Plural3.png,?,Plural3,1,2,hasotgok,hasotgok.png,hasotdem,hasotdem.png
+4,A4_1.png,A4,A,1,Singular4.png,wejun,Plural4.png,?,Plural4,1,2,wejungok,wejungok.png,wejundem,wejundem.png
+5,B1_2.png,B1,B,2,Singular5.png,kenig,Plural5.png,?,Plural5,1,2,keniggok,keniggok.png,kenigdem,kenigdem.png
+6,B2_2.png,B2,B,2,Singular6.png,tulimur,Plural6.png,?,Plural6,1,2,tulimurgok,tulimurgok.png,tulimurdem,tulimurdem.png
+7,B3_2.png,B3,B,2,Singular7.png,petilet,Plural7.png,?,Plural7,1,2,petiletgok,petiletgok.png,petiletdem,petiletdem.png
+8,B4_2.png,B4,B,2,Singular8.png,ropuko,Plural8.png,?,Plural8,1,2,ropukogok,ropukogok.png,ropukodem,ropukodem.png

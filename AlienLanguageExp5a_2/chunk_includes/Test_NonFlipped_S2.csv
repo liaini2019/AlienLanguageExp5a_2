@@ -1,0 +1,8 @@
+Trial number,AlienImageFile,Ailen,Species,Outfit,ItemHintImage,SingularWord,ItemTestImage,Question,Word,Variant1,Variant2,Item1,Item1Image,Item2,Item2Image
+17,C1_1.png,C1,C,1,Singular7.png,petilet,Plural7.png,?,Plural7,1,2,petiletgok,petiletgok.png,petiletdem,petiletdem.png
+18,A1_1.png,A1,A,1,Singular8.png,ropuko,Plural8.png,?,Plural8,1,2,ropukogok,ropukogok.png,ropukodem,ropukodem.png
+19,A2_1.png,A2,A,1,Singular9.png,luragur,Plural9.png,?,Plural9,1,2,luragurgok,luragurgok.png,luragurdem,luragurdem.png
+20,A3_1.png,A3,A,1,Singular10.png,gunawul,Plural10.png,?,Plural10,1,2,gunawulgok,gunawulgok.png,gunawuldem,gunawuldem.png
+21,B1_2.png,B1,B,2,Singular1.png,kabuq,Plural1.png,?,Plural1,1,2,kabuqgok,kabuqgok.png,kabuqdem,kabuqdem.png
+22,B2_2.png,B2,B,2,Singular2.png,bupod,Plural2.png,?,Plural2,1,2,bupodgok,bupodgok.png,bupoddem,bupoddem.png
+23,B3_2.png,B3,B,2,Singular3.png,hasot,Plural3.png,?,Plural3,1,2,hasotgok,hasotgok.png,hasotdem,hasotdem.png
